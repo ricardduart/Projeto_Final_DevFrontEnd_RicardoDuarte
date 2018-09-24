@@ -1,0 +1,15 @@
+.footer-page{
+    margin-top: 100px;
+    padding-top: 40px;
+    background: #1d1d1d;
+    color: #fff;
+    bottom: 0;
+    height: 100px;
+}
+.footer-page p{
+    margin: 0;
+    padding: 0;
+}
+.footer-page a{
+    color: #fff;
+}
